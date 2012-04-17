@@ -1,0 +1,5 @@
+#Bff- BrainFucker Interpreter.
+
+Based on versiob of Alex Pankratov
+
+http://swapped.cc/#!/bff
